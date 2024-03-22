@@ -4,3 +4,5 @@ exec { 'killmenow':
   path    => ['/usr/bin', '/usr/sbin', '/bin'],
   onlyif  => 'pgrep -f "killmenow"',
 }
+
+# Jelly-jonespixel

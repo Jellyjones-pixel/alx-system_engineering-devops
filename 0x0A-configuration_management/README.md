@@ -28,4 +28,4 @@ Read on an auto-remediation tool called [Skynet](https://intranet.alxswe.com/rlt
 
 ## **Author**
 
-**Achieng Brian**
+# Jelly-jonespixel
