@@ -2,3 +2,7 @@
 Host *
       PasswordAuthentication no
       IdentifyFile ~/.ssh/school
+
+## Jellyjones-pixel
+## John Mbithi Mutave
+## johnmbithimutave@gmail.com
