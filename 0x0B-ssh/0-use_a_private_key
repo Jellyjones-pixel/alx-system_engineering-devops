@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
 # Connects to server 54.152.155.119 with key in ~/.ssh/school
 
-ssh -i ~/.ssh/school ubuntu@54.152.155.119
-
-## Jellyjones-pixel
-## John Mbithi Mutave
-## johnmbithimutave@gmail.com
+ssh -i ~/.ssh/school ubuntu@18.206.207.153
